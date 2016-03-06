@@ -30,7 +30,6 @@ int main()
 	cout<<endl;
 	cout<<"The average of the the array is"<<Average(10,z)<<endl;
 
-	system("PAUSE");
 
 
 	return 0;
